@@ -2,7 +2,7 @@
      apps: [
        {
          name: 'loopback',
-         script: 'index.js',
+         script: 'loopback4-example-hello-world/index.js',
          instances: 1,
          autorestart: true,
          watch: false,
